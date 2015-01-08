@@ -1,0 +1,4 @@
+#!/bin/bash
+
+printf "$(printf '\\U%x ' $(awk '/^ENC/{print $2}' $1))\n" | sed -r 's/.{78}/&\n/g'
+
