@@ -5,6 +5,26 @@ It is a my own monospace pixel font, suitable for shell and programming.
 
 Things was started as rasterized version of original Monaco font, but after a while I redraw all glyphs, made it wider and add bold typeface.
 
+# Usage
+
+```bash
+git clone github.com/seletskiy/monaco-font ~/.fonts
+```
+
+In `~/.xinitrc`:
+
+```bash
+xset fp+ ~/.fonts
+xset fp rehash
+```
+
+In ~/.Xresources`:
+
+```
+URxvt.font: -fontforge-monaco-medium-r-normal--12-120-72-72-p-59-iso10646-1
+URxvt.boldFont: -fontforge-monaco-bold-r-normal--12-120-72-72-p-59-iso10646-1
+```
+
 # Why
 * Sharp mind so as sharp font is required for great programming.
 * Bold typeface while being 12px height; it is the reason because of font is wider than other 12px fonts:  
