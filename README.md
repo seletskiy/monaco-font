@@ -1,7 +1,7 @@
 # What
 It is a my own monospace pixel font, suitable for shell and programming.
 
-![glyphs](https://cloud.githubusercontent.com/assets/674812/9831384/f318d5f8-5944-11e5-94e2-855fb63a6ebb.pngt)
+![glyphs](https://cloud.githubusercontent.com/assets/674812/9831384/f318d5f8-5944-11e5-94e2-855fb63a6ebb.png)
 
 Things was started as rasterized version of original Monaco font, but after a while I redraw all glyphs, made it wider and add bold typeface.
 
