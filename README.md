@@ -1,7 +1,7 @@
 # What
 It is a my own monospace pixel font, suitable for shell and programming.
 
-![glyphs](https://cloud.githubusercontent.com/assets/674812/5662331/81389548-9759-11e4-976a-7621ff9b5973.png)
+![glyphs](https://cloud.githubusercontent.com/assets/674812/9831384/f318d5f8-5944-11e5-94e2-855fb63a6ebb.pngt)
 
 Things was started as rasterized version of original Monaco font, but after a while I redraw all glyphs, made it wider and add bold typeface.
 
@@ -23,13 +23,16 @@ In ~/.Xresources`:
 ```
 URxvt.font: -fontforge-monaco-medium-r-normal--12-120-72-72-p-59-iso10646-1
 URxvt.boldFont: -fontforge-monaco-bold-r-normal--12-120-72-72-p-59-iso10646-1
+URxvt.italicFont: -fontforge-monaco-medium-r-normal--12-120-72-72-p-59-iso10646-1
+URxvt.boldItalicFont: -fontforge-monaco-bold-r-normal--12-120-72-72-p-59-iso10646-1
 ```
 
 # Why
 * Sharp mind so as sharp font is required for great programming.
 * Bold typeface while being 12px height; it is the reason because of font is wider than other 12px fonts:  
-  ![bold](https://cloud.githubusercontent.com/assets/674812/5662399/5d9e1904-975a-11e4-9393-12e58cab01ec.png)
-* Cyrillic letters; only most popular pixel fonts has this.
+  ![bold](https://cloud.githubusercontent.com/assets/674812/9831399/91aa1d80-5945-11e5-91d3-091be29e9efd.png)
+* Cyrillic letters; only most popular pixel fonts has this:  
+  ![cyr](https://cloud.githubusercontent.com/assets/674812/9831400/b109aa88-5945-11e5-9c7f-8a3a74727142.png)
 * Properly aligned math/programming symbols (compare with Terminus):  
   ![align](https://cloud.githubusercontent.com/assets/674812/5662333/925ad94e-9759-11e4-970f-8c1946b08194.png)
 * Continious box-drawing symbols (in some pixel fonts there are spacing between glyphs):  
