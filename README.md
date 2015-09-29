@@ -22,10 +22,10 @@ xset fp rehash
 In ~/.Xresources`:
 
 ```
-URxvt.font: -fontforge-monaco-medium-r-normal--12-120-72-72-p-59-iso10646-1
-URxvt.boldFont: -fontforge-monaco-bold-r-normal--12-120-72-72-p-59-iso10646-1
-URxvt.italicFont: -fontforge-monaco-medium-r-normal--12-120-72-72-p-59-iso10646-1
-URxvt.boldItalicFont: -fontforge-monaco-bold-r-normal--12-120-72-72-p-59-iso10646-1
+URxvt.font: xft:Monaco:pixelsize=12:antialias=false
+URxvt.boldFont: xft:Monaco:style=Bold:pixelsize=12:antialias=false
+URxvt.italicFont:
+URxvt.boldItalicFont:
 ```
 
 # Why
