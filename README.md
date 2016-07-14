@@ -1,7 +1,7 @@
 # What
 It is a my own monospace pixel font, suitable for shell and programming.
 
-![glyphs](https://raw.githubusercontent.com/seletskiy/monaco-font/symbols-list.png)
+![glyphs](https://raw.githubusercontent.com/seletskiy/monaco-font/master/symbols-list.png)
 
 
 Things was started as rasterized version of original Monaco font, but after
