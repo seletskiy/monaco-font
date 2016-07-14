@@ -1,7 +1,8 @@
 # What
 It is a my own monospace pixel font, suitable for shell and programming.
 
-![glyphs](https://cloud.githubusercontent.com/assets/674812/9831384/f318d5f8-5944-11e5-94e2-855fb63a6ebb.png)
+![glyphs](https://raw.githubusercontent.com/seletskiy/monaco-font/symbols-list.png)
+
 
 Things was started as rasterized version of original Monaco font, but after
 a while I've redrawed all glyphs, made it wider and added bold typeface.
@@ -44,3 +45,5 @@ URxvt.boldItalicFont:
   ![powerline](https://cloud.githubusercontent.com/assets/674812/5662470/2ccced7c-975b-11e4-997c-8b9a586c5e59.png)
 * Looks good on websites:  
   ![github](https://cloud.githubusercontent.com/assets/674812/5662547/5f21c13e-975c-11e4-91f2-b03396656075.png)
+* Because the death *is not* a release:  
+  ![hastur](https://cloud.githubusercontent.com/assets/674812/16835367/3a347b0a-49da-11e6-9a00-c9e8575602ae.png)
